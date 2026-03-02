@@ -1,0 +1,138 @@
+{
+"name": "Bog House Pub",
+"overview": "Bog House Pub is a neighborhood Irish pub in Fresno, California, specializing in a curated selection of local craft beers and European imports. The pub offers a welcoming atmosphere rooted in local history, providing live music, sports, and a community-focused social space.",
+"websiteUrl": "https://boghousepub.com/",
+"brandValues": [
+"Community",
+"Heritage",
+"Quality",
+"Authenticity"
+],
+"visualAesthetics": [
+"Celtic-inspired",
+"Nocturnal",
+"Welcoming",
+"High-contrast",
+"Traditional"
+],
+"toneOfVoice": [
+"Warm",
+"Welcoming",
+"Knowledgeable",
+"Authentic"
+],
+"fonts": [
+"eagle lake",
+"inknut antiqua"
+],
+"campaigns": [
+{
+"creatives": [
+{
+"title": "Beyond the Green Beer...",
+"versions": [
+{
+"fileName": "resource_brQSirxhahgco_k5naCOu3.png"
+}
+]
+},
+{
+"title": "Authentic Pours Only",
+"versions": [
+{
+"fileName": "resource_8KAycj8fBrm1pof0rOW_dj.png"
+}
+]
+},
+{
+"title": "Built on Community",
+"versions": [
+{
+"fileName": "resource_8BDhmRQUqsGfoOkMXh-OD0.png"
+}
+]
+},
+{
+"title": "Your St. Paddy’s Home",
+"versions": [
+{
+"fileName": "resource_9ePdCpFkSlH1qwiqyTwkrD.png"
+}
+]
+}
+]
+},
+{
+"creatives": [
+{
+"title": "The real St. Paddy’s starts here.",
+"versions": [
+{
+"fileName": "resource_aflLWmIkprg7HBBAXrZ4x4.png"
+}
+]
+},
+{
+"title": "No Gimmicks, Just Soul.",
+"versions": [
+{
+"fileName": "resource_9ASnvDao19-fJIevvUu_qR.png"
+}
+]
+},
+{
+"title": "The Perfect Pour Awaits.",
+"versions": [
+{
+"fileName": "resource_aBwRTRTMTx34Ied4VPUOS6.png"
+}
+]
+},
+{
+"title": "Fresno’s Authentic Irish Home.",
+"versions": [
+{
+"fileName": "resource_bU4OogdraWDf-iiVKK3kt0.png"
+}
+]
+}
+]
+},
+{
+"creatives": [
+{
+"title": "World-Class Taps in Fresno",
+"versions": [
+{
+"fileName": "resource_8IiN51J9RWW3ySIyEUZ_S5.png"
+}
+]
+},
+{
+"title": "Authentic European Imports",
+"versions": [
+{
+"fileName": "resource_8FaCpHN9wpo5gdaFqVI4Cz.png"
+}
+]
+},
+{
+"title": "Fresno’s Finest Local Crafts",
+"versions": [
+{
+"fileName": "resource_amT3os-Z751eCrNUezGOpA.png"
+}
+]
+},
+{
+"title": "An Expertly Curated Selection",
+"versions": [
+{
+"fileName": "resource_8Fx2vkFxcZT9aq0tjjSOAL.png"
+}
+]
+}
+]
+}
+]
+}
